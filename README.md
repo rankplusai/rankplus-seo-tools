@@ -135,7 +135,7 @@ The [xAI API](https://docs.x.ai/developers/tools/remote-mcp) takes the same entr
 ### Agent skill
 
 ```bash
-npx skills add rankplusai/rankplus-seo-tools@v1.0.0
+npx skills add rankplusai/rankplus-seo-tools@v1.0.1 --skill rankplus-seo-tools
 ```
 
 The version pins the install to a tagged release, which can't be changed after it is published. See [releases](https://github.com/rankplusai/rankplus-seo-tools/releases) for the latest.
