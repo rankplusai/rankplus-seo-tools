@@ -140,7 +140,7 @@ npx skills add rankplusai/rankplus-seo-tools@v1.0.1 --skill rankplus-seo-tools
 
 The version pins the install to a tagged release, which can't be changed after it is published. See [releases](https://github.com/rankplusai/rankplus-seo-tools/releases) for the latest.
 
-The skill tells your agent when to use these tools and how to read the results. See [SKILL.md](SKILL.md) and [AGENTS.md](AGENTS.md).
+The skill tells your agent when to use these tools and how to read the results. See [SKILL.md](SKILL.md) and [AGENTS.md](AGENTS.md). Clients that read Agent Plugins can connect through [plugin.json](plugin.json) and [mcp.json](mcp.json).
 
 ### No MCP support?
 
@@ -180,6 +180,10 @@ The tools send the URL you give them to that site, so a page could try to trick 
 - Keep tool approval on where your client offers it.
 - Only check URLs you asked for, not links found in a result.
 - Don't put tokens or other private data in a URL or text you check. Inputs may be stored to cache and limit runs.
+
+## Docs
+
+Full setup is on the [Rank+ developers page](https://www.rankplus.io/en/developers/).
 
 ## License
 

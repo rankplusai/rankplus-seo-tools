@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "rankplus-seo-tools",
+  "version": "1.0.1",
+  "description": "Free SEO checks and article search from Rank+ for AI agents. Read-only, with no account or API key.",
+  "homepage": "https://www.rankplus.io/en/developers/",
+  "repository": "https://github.com/rankplusai/rankplus-seo-tools",
+  "license": "MIT",
+  "keywords": ["seo", "mcp", "agent-skills"]
+}

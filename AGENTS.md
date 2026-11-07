@@ -45,5 +45,6 @@ Free SEO checks and article search from the Rank+ website. Read-only, with no ac
 
 ## Links
 
+- [Developers](https://www.rankplus.io/en/developers/)
 - [Free tools](https://www.rankplus.io/en/tools/)
 - [Blog](https://www.rankplus.io/en/blog/)
